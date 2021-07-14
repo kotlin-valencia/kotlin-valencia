@@ -10,6 +10,6 @@ Functional Kotlin, Spring Boot, Micronaut, Quarkus, Microservices with Kotlin, K
 
 https://www.meetup.com/es-ES/kotlin-valencia/
 
-[![discord kotlin valencia](./assets/discord.jpg)](https://discord.gg/xvvbKAFE)
+[![discord kotlin valencia](./assets/discord.jpg)](https://discord.gg/d4Wj3JFTVQ)
 
-https://discord.gg/xvvbKAFE
+https://discord.gg/d4Wj3JFTVQ
