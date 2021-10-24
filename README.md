@@ -31,6 +31,12 @@ https://www.meetup.com/es-ES/kotlin-valencia/
 
 https://discord.gg/d4Wj3JFTVQ
 
+## Meetups pasadas
+
+| Nombre del evento | Autor | Fecha | Diapos |
+| --- | --- | --- | --- | --- |
+| [Estado de Machine Learning en Kotlin](https://www.meetup.com/kotlin-valencia/events/281267093/) | Carlos Ballesteros [@cballesterosvel](https://twitter.com/cballesterosvel) | 20 Octubre 2021 | PENDING |
+
 ## Governance
 
 Kotlin Valencia Meetup es una Meetup gestionada por la comunidad siguiendo las [guías de Kotlin User Group de la Kotlin Foundation](https://kotlinlang.org/user-groups/support.html).
