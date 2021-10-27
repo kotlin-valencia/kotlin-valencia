@@ -35,7 +35,7 @@ https://discord.gg/d4Wj3JFTVQ
 
 | Nombre del evento | Autor | Fecha | Diapos |
 | --- | --- | --- | --- 
-| [Estado de Machine Learning en Kotlin](https://www.meetup.com/kotlin-valencia/events/281267093/) | Carlos Ballesteros [@cballesterosvel](https://twitter.com/cballesterosvel) | 20 Octubre 2021 | PENDING |
+| [Estado de Machine Learning en Kotlin](https://www.meetup.com/kotlin-valencia/events/281267093/) | Carlos Ballesteros [@cballesterosvel](https://twitter.com/cballesterosvel) | 20 Octubre 2021 | [[Video en inglés]](https://youtu.be/k0_ewOxWMm0) [[Diapositivas]](https://docs.google.com/presentation/d/1kDnV9eWS4lyfGBdTy8KWV-MsFzqSzRd9PF2HgMoStd8/edit?usp=sharing) |
 
 ## Governance
 
